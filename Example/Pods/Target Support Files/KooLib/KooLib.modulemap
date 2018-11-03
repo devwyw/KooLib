@@ -1,0 +1,6 @@
+framework module KooLib {
+  umbrella header "KooLib-umbrella.h"
+
+  export *
+  module * { export * }
+}

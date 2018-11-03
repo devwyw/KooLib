@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'KooLib_Example' do
+  pod 'KooLib', :path => '../'
+
+  target 'KooLib_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

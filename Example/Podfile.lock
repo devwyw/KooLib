@@ -1,0 +1,16 @@
+PODS:
+  - KooLib (0.1.0)
+
+DEPENDENCIES:
+  - KooLib (from `../`)
+
+EXTERNAL SOURCES:
+  KooLib:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  KooLib: a7eac6a7a3c5b5080c22c47f8aae195e33b4b5ae
+
+PODFILE CHECKSUM: f6976341ffe0e9fa0b8a4414569df3d49a2ff7ee
+
+COCOAPODS: 1.6.0.beta.2
